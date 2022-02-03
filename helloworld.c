@@ -14,4 +14,4 @@ int main()
 // 2. gcc filename.c -o filename ได้ filename
 
 // วิธีรันโปรแกรม
-// ./filename
+// .\filename
